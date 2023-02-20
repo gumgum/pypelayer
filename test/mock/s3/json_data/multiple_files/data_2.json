@@ -1,0 +1,20 @@
+{
+    "column_6": "2022/03/02",
+    "column_7": "2022-03-02T01:02:03",
+    "column_8": {
+        "other_metric": {
+            "name": "some_other_metric",
+            "value": 5.5
+        },
+        "some_array": [
+            1,
+            2,
+            3
+        ],
+        "nested": {
+            "a": {
+                "b": "value"
+            }
+        }
+    }
+}

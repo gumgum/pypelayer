@@ -1,0 +1,28 @@
+[
+    {
+        "metadata": {
+            "timestamp": "2017-01-01 12:00:00",
+            "source": "test_source",
+            "owner": "test_owner"
+        },
+        "other_metric": {
+            "name": "g",
+            "value": 15.5
+        }
+    },
+    {
+        "metadata": {
+            "timestamp": "2017-01-01 13:00:00",
+            "source": "test_source_2",
+            "owner": "test_owner_2"
+        },
+        "metric": {
+            "name": "d",
+            "value": 5
+        },
+        "other_metric": {
+            "name": null,
+            "value": null
+        }
+    }
+]

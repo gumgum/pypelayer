@@ -1,0 +1,27 @@
+[
+	{
+		"metadata": {
+			"timestamp": "2017-01-01 12:00:00",
+			"source": "test_source",
+			"owner": "test_owner"
+		},
+		"metric": {
+			"name": "some_metric",
+			"value": 5
+		},
+		"other_metric": {
+			"name": "some_other_metric",
+			"value": 5.5
+		},
+		"some_array": [
+			1,
+			2,
+			3
+		],
+		"nested": {
+			"a": {
+				"b": "value"
+			}
+		}
+	}
+]

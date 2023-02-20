@@ -1,0 +1,25 @@
+{
+    "column_1": "test",
+    "column_2": 1234,
+    "column_3": 234.75,
+    "column_4": "2022-03-02 01:02:03",
+    "column_5": "2022-03-02",
+    "column_6": "2022/03/02",
+    "column_7": "2022-03-02T01:02:03",
+    "column_8": {
+        "other_metric": {
+            "name": "some_other_metric",
+            "value": 5.5
+        },
+        "some_array": [
+            1,
+            2,
+            3
+        ],
+        "nested": {
+            "a": {
+                "b": "value"
+            }
+        }
+    }
+}

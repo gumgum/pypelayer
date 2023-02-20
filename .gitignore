@@ -1,0 +1,10 @@
+# Compiled Python bytecode
+__pycache__/
+
+# Build artifacts
+build/
+dist/
+pypelayer.egg-info/
+
+# Environment
+venv/
